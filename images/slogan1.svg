@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .small { font: italic 13px Arial Black; }
+    .heavy { font: bold 30px Arial Black; }
+
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr { font: italic 40px Arial Black; fill: maroon; }
+  </style>
+
+  <text x="90" y="95" class="small">Learn</text>
+  <text x="110" y="120" class="small">to</text>
+  <text x="90" y="150" class="heavy">punch</text>
+  <text x="120" y="190" class="Rrrrr">HARD!</text>
+</svg>
