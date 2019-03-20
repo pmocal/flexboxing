@@ -30,6 +30,10 @@ a {
   justify-content: center;
 }
 
+.menu-container a {
+  color: white;
+}
+
 .signup {
   margin-left: auto;
 }
@@ -59,6 +63,10 @@ a {
   display: flex;
   justify-content: center;
   background-color: whitesmoke;
+}
+
+.header-container a {
+  color: black; 
 }
 
 .header {
@@ -110,7 +118,7 @@ a {
 }
 
 .footer-item {
-  border: 1px solid gray;
+  border-top: 1px solid gray;
   background-color: black;
   flex: 1;
   display: flex;
