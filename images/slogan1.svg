@@ -5,7 +5,7 @@
 
     /* Note that the color of the text is set with the    *
      * fill property, the color property is for HTML only */
-    .Rrrrr { font: italic 40px Arial Black; fill: maroon; }
+    .Rrrrr { font: italic 40px Arial Black; fill: red; }
   </style>
 
   <text x="90" y="95" class="small">Learn</text>
