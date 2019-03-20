@@ -11,6 +11,10 @@ html, body {
   height: 100%;
 }
 
+a {
+  text-decoration: none;
+}
+
 .grid {
   min-height: 100%;
   display: grid;
