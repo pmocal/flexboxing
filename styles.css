@@ -38,12 +38,18 @@ a {
   color: white;
 }
 
-.signup {
-  margin-left: auto;
-}
-
 .subscribe {
   color: red;
+}
+
+#dropdown {
+  display: none;
+  margin-left: 58%;
+  margin-top: 4%;
+  width: 15%;
+  height: 5%;
+  position: absolute;
+  z-index: 10;
 }
 
 .menu {
@@ -55,10 +61,6 @@ a {
 .links {
   display: flex;
   justify-content: flex-end;
-}
-
-.login {
-  margin-left: 2%;
 }
 
 .header-container {
